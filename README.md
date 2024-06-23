@@ -1,5 +1,9 @@
 # Shell Permissions
 
+## 0-iam_betty
+- **Description:** Switches the current user to the user `betty`.
+- **Usage:** `./0-iam_betty`
+
 ## 1-who_am_i
 - **Description:** Prints the effective username of the current user.
 - **Usage:** `./1-who_am_i`

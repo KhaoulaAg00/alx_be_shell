@@ -1,5 +1,9 @@
 # Shell Permissions
 
+## 4-empty
+- **Description:** Creates an empty file called `hello`.
+- **Usage:** `./4-empty`
+
 ## 5-execute
 - **Description:** Adds execute permission to the owner of the file `hello`.
 - **Usage:** `./5-execute`
